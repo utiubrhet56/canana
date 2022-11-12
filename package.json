@@ -7,12 +7,6 @@
   },
   "repository": {
     "type": "git",
-    "url": : "git+https://github.com/utiubrhet56/canana.git"
+    "url":  "git+https://github.com/utiubrhet56/canana.git"
   },
-  "author":  "",
-  "license":  "ISC",
-  "bugs": {
-    "url": "https://github.com/utiubrhet56/canana/issues"
-  },
-  "homepage":  "https://github.com/utiubrhet56/canana#readme"
 }
