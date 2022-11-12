@@ -5,5 +5,7 @@
   "scripts": {
     "start": "node start.sh"
   },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }
