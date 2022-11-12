@@ -5,8 +5,5 @@
   "scripts": {
     "start": "node start.sh"
   },
-  "repository": {
-    "type": "git",
-    "url":  "git+https://github.com/utiubrhet56/canana.git"
-  },
+  }
 }
